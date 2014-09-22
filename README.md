@@ -1,4 +1,0 @@
-Vlille
-======
-
-Vlille++ Android Project
